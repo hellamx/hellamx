@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="250"/>
-</div>
-
 ### :hammer_and_wrench: Languages and Tools :
 
 I'm 21 y.o  full-stack web-developer from Saint-Petersburg, Russia.
